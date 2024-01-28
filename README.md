@@ -1,5 +1,1 @@
- _____ _       _       
-| __  |_|___ _| |_ _ 
-| __ -| |  _| . | | |
-|_____|_|_| |___|_  | 
-               | ___|
+![alt text](https://cdn.discordapp.com/attachments/1191940685281108121/1201052953805602876/Screenshot_2024-01-27_233440-removebg-preview.png?ex=65c86aba&is=65b5f5ba&hm=eeb2749357f714f5eeb8d2188813c340f90bf9daa507c1effab7c975b0e42b91&)
