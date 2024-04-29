@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.ibb.co/0hC38LD/Screenshot-2024-03-31-143128-removebg-preview.png&" alt="alt text">
+ <img src="https://images-ext-1.discordapp.net/external/pUjsTI9v5WW45Hw0CWWIK7klFkpVH0XALCxwKR4L-nw/https/i.ibb.co/0hC38LD/Screenshot-2024-03-31-143128-removebg-preview.png?format=webp&quality=lossless&" alt="alt text">
 </p>
 
 <table align="center">
